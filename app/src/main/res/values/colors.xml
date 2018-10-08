@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#008577</color>
-    <color name="colorPrimaryDark">#00574B</color>
-    <color name="colorAccent">#D81B60</color>
+    <color name="colorPrimary">#8470ff</color>
+    <color name="colorPrimaryDark">#2F1D1A</color>
+    <!-- Background color for app -->
+    <color name="app_background">#ffffe0</color>
+    <!-- Accent color of the app -->
+    <color name="colorAccent">#10CAC9</color>
+
+    <!-- Divider colors -->
+    <color name="startColor">#000000</color>
+    <color name="endColor">#000000</color>
 </resources>

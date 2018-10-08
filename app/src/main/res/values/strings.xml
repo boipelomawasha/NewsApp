@@ -1,3 +1,27 @@
 <resources>
-    <string name="app_name">News App</string>
+    <string name="app_name">Business News App</string>
+
+    <!-- Tool strings -->
+    <string name="news_title">Title</string>
+    <string name="news_section">Section</string>
+    <string name="news_author">Author</string>
+    <string name="news_date">Published Date</string>
+
+    <string name="date_format">dd-MM-yyyy</string>
+    <string name="no_news">No news available</string>
+    <string name="no_author">No author specified</string>
+
+    <!-- Error message when there is no internet connectivity [CHAR LIMIT=NONE] -->
+    <string name="no_internet_connection">No internet connection.</string>
+
+    <!-- Query strings -->
+    <string name="base_url">https://content.guardianapis.com</string>
+    <string name="auth">e08fa10f-fff8-45e1-89b2-28edb2cdbc1d</string>
+    <string name="search">business</string>
+    <string name="section">business</string>
+    <string name="show_tags">contributor</string>
+
+    <!-- Text strings -->
+    <string name="fontFamily">serif</string>
+
 </resources>
